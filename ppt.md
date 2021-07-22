@@ -1,6 +1,6 @@
 鄧宇昊西元2018年4月7日（週六）在「頂個球公社」發文，被北京大學校方約談至8日凌晨三點半左右
 
-![https://archive.is/FwPKi](https://github.com/JiangPingbo/MAtheses/pics/dengyuhao.png)
+![https://archive.is/FwPKi](https://github.com/JiangPingbo/MAtheses/blob/main/pics/dengyuhao.png)
 
 4月9日（週一），鄧、岳昕等人完成申請信息公開的流程
 
@@ -8,11 +8,11 @@
 
 4月23日，岳昕在「深約一丈」發文
 
-![https://archive.vn/x1O7w](https://github.com/JiangPingbo/MAtheses/pics/YueXin423.png)
+![https://archive.vn/x1O7w](https://github.com/JiangPingbo/MAtheses/blob/main/pics/YueXin423.png)
 
 晚，三角地出現大字報聲援岳昕
 
-![](https://github.com/JiangPingbo/MAtheses/pics/hudiqunhun.jpg)
+![](https://github.com/JiangPingbo/MAtheses/blob/main/pics/hudiqunhun.jpg)
 
 4月27日，「Info-cn」轉到了現在的「Terminus2049」，部分是因爲牆
 
@@ -26,15 +26,15 @@
 
 
 
-![https://www.reddit.com/r/PoliticalCompassMemes/comments/gep6km/the_political_compass_but_its_chinese_internet/](https://github.com/JiangPingbo/MAtheses/pics/pc.jpg)
+![https://www.reddit.com/r/PoliticalCompassMemes/comments/gep6km/the_political_compass_but_its_chinese_internet/](https://github.com/JiangPingbo/MAtheses/blob/main/pics/pc.jpg)
 
-![https://www.reddit.com/r/PoliticalCompassMemes/comments/c98cpv/china/](https://github.com/JiangPingbo/MAtheses/pics/pc0.png)
-
-
+![https://www.reddit.com/r/PoliticalCompassMemes/comments/c98cpv/china/](https://github.com/JiangPingbo/MAtheses/blob/main/pics/pc0.png)
 
 
 
-![Submarine_Cable_Map_2021](https://github.com/JiangPingbo/MAtheses/pics/Submarine_Cable_Map_2021.jpg)
+
+
+![Submarine_Cable_Map_2021](https://github.com/JiangPingbo/MAtheses/blob/main/pics/Submarine_Cable_Map_2021.jpg)
 
 
 
@@ -49,13 +49,13 @@
 
 #### 
 
-![https://mp.weixin.qq.com/s/7hSd2sme97AcjHUVhsaOaw](https://github.com/JiangPingbo/MAtheses/pics/censorshipinferno.png)
+![https://mp.weixin.qq.com/s/7hSd2sme97AcjHUVhsaOaw](https://github.com/JiangPingbo/MAtheses/blob/main/pics/censorshipinferno.png)
 
 
 
-![soccer](https://github.com/JiangPingbo/MAtheses/pics/soccer.jpg)
+![soccer](https://github.com/JiangPingbo/MAtheses/blob/main/pics/soccer.jpg)
 
-![tennis](https://github.com/JiangPingbo/MAtheses/pics/tennis.jpeg)
+![tennis](https://github.com/JiangPingbo/MAtheses/blob/main/pics/tennis.jpeg)
 
 
 
@@ -69,35 +69,35 @@
 
 
 
-![fukuyama](https://github.com/JiangPingbo/MAtheses/pics/fukuyama.jpg)
+![fukuyama](https://github.com/JiangPingbo/MAtheses/blob/main/pics/fukuyama.jpg)
 
-![winwin](https://github.com/JiangPingbo/MAtheses/pics/winwin.jpg)
-
-
-
-![Verwertung](https://github.com/JiangPingbo/MAtheses/pics/Verwertung.jpg)
+![winwin](https://github.com/JiangPingbo/MAtheses/blob/main/pics/winwin.jpg)
 
 
 
-![zizek](https://github.com/JiangPingbo/MAtheses/pics/zizek.png)
-
-![https://www.youtube.com/watch?v=Zm5tpQp6sT4](https://github.com/JiangPingbo/MAtheses/pics/zizek1.png "https://www.youtube.com/watch?v=Zm5tpQp6sT4")
-
-![Marx](https://github.com/JiangPingbo/MAtheses/pics/Marx.jpeg)
-
-![Marx0](https://github.com/JiangPingbo/MAtheses/pics/Marx0.jpeg)
+![Verwertung](https://github.com/JiangPingbo/MAtheses/blob/main/pics/Verwertung.jpg)
 
 
 
-![DPRK](https://github.com/JiangPingbo/MAtheses/pics/DPRK.JPG)
+![zizek](https://github.com/JiangPingbo/MAtheses/blob/main/pics/zizek.png)
+
+![https://www.youtube.com/watch?v=Zm5tpQp6sT4](https://github.com/JiangPingbo/MAtheses/blob/main/pics/zizek1.png "https://www.youtube.com/watch?v=Zm5tpQp6sT4")
+
+![Marx](https://github.com/JiangPingbo/MAtheses/blob/main/pics/Marx.jpeg)
+
+![Marx0](https://github.com/JiangPingbo/MAtheses/blob/main/pics/Marx0.jpeg)
 
 
 
-![https://www.redbubble.com/i/poster/ALL-I-WANT-FOR-CHRISTMAS-IS-THE-MEANS-OF-PRODUCTION-Karl-Marx-Funny-Marxist-Christmas-Communist-Meme-by-starkle/42562310.LVTDI](https://github.com/JiangPingbo/MAtheses/pics/Marx3.jpg)
-
-![https://www.amazon.com/COMMUNIST-JOKES-EVERYONE-Karl-Marx/dp/B07ZV2LNP2](https://github.com/JiangPingbo/MAtheses/pics/Marx4.jpeg)
+![DPRK](https://github.com/JiangPingbo/MAtheses/blob/main/pics/DPRK.JPG)
 
 
 
-![https://www.reddit.com/r/China_irl/comments/n6nxfn/%E9%86%89%E9%85%92%E7%AD%89%E7%BA%A7/](https://github.com/JiangPingbo/MAtheses/pics/drink.png)
+![https://www.redbubble.com/i/poster/ALL-I-WANT-FOR-CHRISTMAS-IS-THE-MEANS-OF-PRODUCTION-Karl-Marx-Funny-Marxist-Christmas-Communist-Meme-by-starkle/42562310.LVTDI](https://github.com/JiangPingbo/MAtheses/blob/main/pics/Marx3.jpg)
+
+![https://www.amazon.com/COMMUNIST-JOKES-EVERYONE-Karl-Marx/dp/B07ZV2LNP2](https://github.com/JiangPingbo/MAtheses/blob/main/pics/Marx4.jpeg)
+
+
+
+![https://www.reddit.com/r/China_irl/comments/n6nxfn/%E9%86%89%E9%85%92%E7%AD%89%E7%BA%A7/](https://github.com/JiangPingbo/MAtheses/blob/main/pics/drink.png)
 
