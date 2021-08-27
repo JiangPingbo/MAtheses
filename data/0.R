@@ -133,3 +133,25 @@ ggplot(tippinggerenall, aes(date, tipping))+
   labs(title = "2018年6月到2020年5月個人原創公衆號的讚賞數", x = NULL, y = NULL)+
   theme(text=element_text(size=10, family="wqy-microhei"))
 
+articlesample <- subset(article, article$publish_time >= "2019-06-01 00:00:00 CST")
+articlesample <- subset(articlesample, articlesample$publish_time < "2020-06-01 00:00:00 CST")
+articlesamplecopyright <- subset(articlesample, articlesample$copyright_stat == 11)
+articlesamplegeren <- subset(articlesamplecopyright, articlesamplecopyright$fenzu == "個人讚賞")
+
+ggplot(articlesamplegeren, aes(publish_time, like_num))+
+  geom_point(shape = ".") + 
+  geom_smooth() +
+  facet_wrap(~mingzi) +
+  scale_x_continuous(labels = NULL)+
+  ylim(0, 20000)+
+  labs(title = "2019年6月到2020年5月個人原創公衆號的在看數", x = NULL, y = NULL)+
+  theme(text=element_text(size=10, family="wqy-microhei"))
+tippinggerensample <- subset(tippinggerenall, tippinggerenall$date >= "2019-06-01")
+ggplot(tippinggerensample, aes(date, tipping))+
+  geom_point(shape = ".") + 
+  geom_smooth() +
+  scale_x_continuous(labels = NULL)+
+  facet_wrap(~name) +
+  ylim(0, 2000)+
+  labs(title = "2019年6月到2020年5月個人原創公衆號的讚賞數", x = NULL, y = NULL)+
+  theme(text=element_text(size=10, family="wqy-microhei"))
