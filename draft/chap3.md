@@ -14,7 +14,7 @@
 
 因為在接入互聯網的過程中，中國同時在破除郵電部的電信壟斷，所以形成了後來的九龍治水的模式。最早的國際聯網規定主要是1993年底成立的國家經濟信息化聯席會議辦公室（後來轉為信息化工作領導小組）起草的，即為國務院於1996年發佈的〈中華人民共和國計算機信息網絡國際聯網管理暫行規定〉[^3]（陸首群，2016；方興東、張靜，2016）。這項行政法規說明了在互聯網這個新問題上，過去的手段，即內外之別仍然延續（Negro, 2018）。早在1995年，《經濟學人》、《紐約時報》、大赦國際的網站就已經遭到封鎖（Negro, 2017, p.48），所以，互聯網不僅僅是一門新科技，它的傳媒屬性早已顯現，並為管理者所知。
 
-這樣的內外差別也體現在最底層的物理設施上。在「寬帶中國」戰略下（Hong, 2017, chap. 3），國內的上網速率快速提升，資費下降，互聯網快速滲透全國，在國際上也名列前茅。據CNNIC（2021年2月，頁2）的報告，網民規模已達9.89億，普及率達70.4%（農村為55.9%）；直屬工業和信息化部（前列互聯網管理部門經兩次融合而成）的智庫，CAICT（2020年12月，頁17）更是在報告中指出，「行政村通光纖和通4G比例雙雙超過98%……基本實現了農村城市『同網同速』」。但在國際層面上，即中國和其他國家連通層面上，則仍進展緩慢。互聯網國際出口帶寬在2015年為3.8Tbps，沒能達到「十二五」計劃要求的6.5Tbps，而「十三五」計劃要求的20Tbps，[^4]截止2020年底，則是不到12Tbps，再次沒能完成計劃要求的六成（CNNIC，2021年2月，頁10）。整體的光纜容量要稍高一些，截止2019年底，「國際業務帶寬達到30.4Tbps」（而據https://global-internet-map-2021.telegeography.com/，全球已達600Tbps），但陸纜超過海纜，登陸海纜僅9條，與台灣相當，於是，在國際互聯上，總體和人均都非常不足，結果就是國際訪問速度慢（M. E. Roberts, 2018 沒有考慮到這個原因），而2018年平均每個網民的國際流量僅為國際平均值的36.4%，亞太地區平均值的45.2%（ITU, 2018, p. 38；CAICT，2017年12月，2018年8月，2020年10月，頁12）。[^5]最近，臉書和谷歌投建跨太平洋海纜，香港是其中一個光纜登陸地，但美國政府以國家安全為由拒絕，[^6]由此可推得中國與美國相連的信息基礎設施未來仍然不會有進展，從接入國際互聯網前直到如今，因為兩國的種種原因，中國的互聯網一直保持內向的特徵。從用戶角度看，中國的內容豐富，但與國外聯繫程度不高（Taneja, 2017, Fig. 4）。
+這樣的內外差別也體現在最底層的物理設施上。在「寬帶中國」戰略下（Hong, 2017, chap. 3），國內的上網速率快速提升，資費下降，互聯網快速滲透全國，在國際上也名列前茅。據CNNIC（2021年2月，頁2）的報告，網民規模已達9.89億，普及率達70.4%（農村為55.9%）；直屬工業和信息化部（前列互聯網管理部門經兩次融合而成）的智庫，CAICT（2020年12月，頁17）更是在報告中指出，「行政村通光纖和通4G比例雙雙超過98%……基本實現了農村城市『同網同速』」。但在國際層面上，即中國和其他國家連通層面上，則仍進展緩慢。互聯網國際出口帶寬在2015年為3.8Tbps，沒能達到「十二五」計劃要求的6.5Tbps，而「十三五」計劃要求的20Tbps，[^4]截止2020年底，則是不到12Tbps，再次沒能完成計劃要求的六成（CNNIC，2021年2月，頁10）。整體的光纜容量要稍高一些，截止2019年底，「國際業務帶寬達到30.4Tbps」（而據https://global-internet-map-2021.telegeography.com/ ，全球已達600Tbps），但陸纜超過海纜，登陸海纜僅9條，與台灣相當，於是，在國際互聯上，總體和人均都非常不足，結果就是國際訪問速度慢（M. E. Roberts, 2018 沒有考慮到這個原因），而2018年平均每個網民的國際流量僅為國際平均值的36.4%，亞太地區平均值的45.2%（ITU, 2018, p. 38；CAICT，2017年12月，2018年8月，2020年10月，頁12）。[^5]最近，臉書和谷歌投建跨太平洋海纜，香港是其中一個光纜登陸地，但美國政府以國家安全為由拒絕，[^6]由此可推得中國與美國相連的信息基礎設施未來仍然不會有進展，從接入國際互聯網前直到如今，因為兩國的種種原因，中國的互聯網一直保持內向的特徵。從用戶角度看，中國的內容豐富，但與國外聯繫程度不高（Taneja, 2017, Fig. 4）。
 
 雖然相對獨立且大量領域從未對境外公司開放，比如新聞出版、視聽節目等（Jia, 2020, p.159），中國的互聯網和中國經濟一樣發展迅猛。兩位不同領域的研究者不約而同地使用了improvisation來描述，洪源遠（Yuen Yuen Ang, 2016, p. 17／馬亮譯，2018，頁22）將改革開放以來的經濟成就歸結為「引導創變（directed improvisation）：中央改革者引導；地方政府執行者創變」，Repnikova（2017）則將媒體和政府之間的關係稱作「有限度的即興互動」[^7]（guarded improvisation）。這種情況源自其背後政府與媒體間關係的不明晰，近年來國家權力的相對擴展（包括其間媒體的抵抗）就是最好的說明，幾位研究者已有記錄（Repnikova, 2017, chap. 8; Lei, 2017, chap. 7）。相比蘇聯末期的公開性與重建政策中，中國的調查記者缺少社會支持，尤其是頂層領導的支持（Repnikova, 2017, chap. 7）。
 
@@ -67,34 +67,65 @@ CNNIC（2021年2月）的報告顯示，即時通信是最主要的互聯網應�
 除此之外，微信公衆號也有動員功能。Chen, Mao, & Qiu（2018, chap.3, sec.3）介紹了在美國的華人使用微信公衆號與朋友圈動員起社會運動，也許令人意外的是，這同樣在中國發生。中國的#米兔運動（#MeToo）在2018年初拉開帷幕，主要的戰場在大學，矛頭指向了不少教授，尤其是在4月，北京大學畢業生喚起1998年的高岩自殺事件，北京大學學生則依規定申請學校公開當年的會議記錄，為此，不少學生多次被學校約談。鄧宇昊同學在微信公衆號發文公佈自己將在9日前往校辦提交申請，並號召更多人前去，岳昕就是其中之一，之後，她成為重點人物不斷遭到約談，她又在4月23日在公衆號發表公開信，[^27]30日岳昕再發文總結她這一週的經歷（Zeng, 2019；楊子琪，2018年5月4日a，2018年5月4日b）。這些微信公衆號文章（雖然都很快地被刪除了）的影響力越過了大學的高牆，岳昕也在畢業後走出校園後，「做出無悔的人生選擇」，[^28]參與到沈夢雨等工人與日弘汽配廠的鬥爭，參與到建立佳士工會的運動中，她們用微信公衆號文章發起聯名信，[^29]並要求更多人的聲援和行動（Pun, 2021）。微信公衆號傳播與民衆動員的力量相結合，岳昕在微信公衆號上屢刪屢發這樣的行動，在這之後就變得更少了，也許正是因此微信的審查更趨嚴格。但同時也是在2018年4月，對抗審查，尤其是微信公衆號審查的一股力量也開始現身。蔡偉、陳玫等人4月10日在github上開闢了「端點星Terminus」，[^30]來備份網上消失的文章。實際上，他們不僅自己備份，更是將這件事變得更簡單，讓更多人參與進來，[^31]端點星用的這個網頁模板也被「佳士工人聲援團」用作官網。他們的備份工作持續到2020年4月19日被抓（張郁，2021），據陳玫母親提供的訊息，兩人遭起訴是因「2049bbs」及其「不實信息」，一個在端點星備份之外的討論社區，2021年8月13日開庭判尋釁滋事罪，刑期一年三個月，8月15日出獄，共482天。[^32]
 
 [^1]: 引自林毅夫2021年新書發表直播，見https://weibo.com/2803301701/KcShtkqri
+
 [^2]: 中國第一封電郵是1986年中國科學院高能物理所的吳為民與歐洲核子研究組織（CERN）討論如何交換數據的，不是1987年兵器工業計算機研究所發向德國Karlsruher大學的「Across the Great Wall we can reach every corner in the world」（胡啟恆，2016），不過，中國的域名.CN在1994年全功能接入互聯網之前，暫時設在該大學，時間長達近三年半（方興東、陳帥，2017）。
-[^3]: 見http://xzfg.moj.gov.cn/law/searchTitleDetail?LawID=460&Query，其第六條規定了郵電部對物理設施的壟斷，卻在近來被用作翻牆違法的依據（參見https://mp.weixin.qq.com/s/cndzW_oXClkSdwOtam0qUw）。
+
+[^3]: 見http://xzfg.moj.gov.cn/law/searchTitleDetail?LawID=460&Query ，其第六條規定了郵電部對物理設施的壟斷，卻在近來被用作翻牆違法的依據（參見https://mp.weixin.qq.com/s/cndzW_oXClkSdwOtam0qUw ）。
+
 [^4]: 見http://www.gov.cn/zhengce/content/2016-12/27/content_5153411.htm
-[^5]: 這段內容受「聿紓」和「李如一」文章的啓發，其中「聿紓」認為出口流量有限主要是因為長城防火牆（GFW）處理能力有限，參見：https://zhuanlan.zhihu.com/p/64467370，https://zhuanlan.zhihu.com/p/356916754，以及https://blog.yitianshijie.net/2015/11/16/wechat-de-facto-lan/
+
+[^5]: 這段內容受「聿紓」和「李如一」文章的啓發，其中「聿紓」認為出口流量有限主要是因為長城防火牆（GFW）處理能力有限，參見：https://zhuanlan.zhihu.com/p/64467370 ，https://zhuanlan.zhihu.com/p/356916754 ，以及https://blog.yitianshijie.net/2015/11/16/wechat-de-facto-lan/
+
 [^6]: https://licensing.fcc.gov/ibfsweb/ib.page.FetchPN?report_key=2706052
+
 [^7]: 這是方可成的翻譯，兩人合作過多篇論文。
+
 [^8]: http://www.cac.gov.cn/2017-05/02/c_1120902760.htm
+
 [^9]: 周永明（Zhou Yongming）此書2013年出版的譯本只有前五章，作者在2013年9月7日將之後的章節放在了自己的新浪博客上（文中一些「／」符號是為了規避審查），但現已無法訪問網頁，故引用的是2016年1月的網頁存檔。
+
 [^10]: https://transparencyreport.google.com/government-removals/overview?hl=zh_TW&request_country=period:Y2009H2;authority:CN
-[^11]: 永久關停「內涵段子」應用：https://mp.weixin.qq.com/s/4r6rCwNE7BgTLD37cPJOoA；「今日頭條」廣告對英烈不敬：https://www.toutiao.com/a6563848780355994116/
+
+[^11]: 永久關停「內涵段子」應用：https://mp.weixin.qq.com/s/4r6rCwNE7BgTLD37cPJOoA ；「今日頭條」廣告對英烈不敬：https://www.toutiao.com/a6563848780355994116/
+
 [^12]: 另一家子公司環球時報在線的營收，在同一時間從不足九千萬增長了一倍，2019年的利潤超過兩千五百萬。這也是因為輿情進入了法律和科層制管理當中，http://yuqing.people.com.cn/n1/2020/0310/c209043-31625854.html
-[^13]: 其他國家未見此口徑的數據。美國的數據見https://www.journalism.org/2016/05/26/news-use-across-social-media-platforms-2016/，https://www.journalism.org/2021/01/12/news-use-across-social-media-platforms-in-2020/，因2020年的統計改變口徑為經常使用網站瀏覽新聞，只能使用2019年的數據，見https://www.journalism.org/2019/10/02/americans-are-wary-of-the-role-social-media-sites-play-in-delivering-the-news/
+
+[^13]: 其他國家未見此口徑的數據。美國的數據見https://www.journalism.org/2016/05/26/news-use-across-social-media-platforms-2016/ ，https://www.journalism.org/2021/01/12/news-use-across-social-media-platforms-in-2020/ ，因2020年的統計改變口徑為經常使用網站瀏覽新聞，只能使用2019年的數據，見https://www.journalism.org/2019/10/02/americans-are-wary-of-the-role-social-media-sites-play-in-delivering-the-news/
+
 [^14]: 廣告的具體樣式，參見https://ad.weixin.qq.com/guide/138
+
 [^15]: 見微博社區公告，https://weibo.com/1934183965/Jbt7Nydr3
+
 [^16]: 具體地，2017年12月6日前留言為邀請制，從這一天起到2018年3月12日之間註冊的公衆號自動帶有留言功能（陳飛樾，2020年3月29日）。騰訊客服錯寫為當年2月12日，見https://kf.qq.com/faq/120911VrYVrA1510133ARbyU.html
+
 [^17]: https://mp.weixin.qq.com/s/BO211JD01XLbV3ZNtjkHXw
+
 [^18]: 《2021數字化就業新職業新崗位研究報告——基於微信生態觀察》，見：http://pg.jrj.com.cn/acc/Res/CN_RES/INVEST/2021/4/30/8e8eeb10-6575-4322-bc5b-fb15ee253a26.pdf
+
 [^19]: http://www.cac.gov.cn/2017-09/08/c_1121627612.htm
-[^20]: 部分內容取自騰訊公衆號的說明，包括：https://kf.qq.com/product/weixinmp.html，https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncementlist
+
+[^20]: 部分內容取自騰訊公衆號的說明，包括：https://kf.qq.com/product/weixinmp.html ，https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncementlist
+
 [^21]: 黃天晴在2016年1月11日的微信公開課上的演講，https://tech.qq.com/a/20160111/034467.htm
+
 [^22]: http://www.capa.com.cn/news/showDetail?id=170775
-[^23]: https://www.facebook.com/help/833144153745643/；https://support.google.com/youtube/answer/9457362
-[^24]: Twitter: https://blog.twitter.com/en_us/topics/product/2021/introducing-tip-jar, Substack: https://substack.com/going-paid, Patreon: https://www.patreon.com/pricing
-[^25]: 「在看」確實接替了朋友圈的流量（https://mp.weixin.qq.com/s/F7lMqAjOh64ZfsNDoMpdNQ），不過在之後的視頻號中，張小龍又希望關注：好友推薦：機器推薦=1:2:10，他把視頻號看作更多人創作和表達的方式（相較於少部分人在公衆號寫長文）
+
+[^23]: https://www.facebook.com/help/833144153745643/ ；https://support.google.com/youtube/answer/9457362
+
+[^24]: Twitter: https://blog.twitter.com/en_us/topics/product/2021/introducing-tip-jar , Substack: https://substack.com/going-paid , Patreon: https://www.patreon.com/pricing
+
+[^25]: 「在看」確實接替了朋友圈的流量（https://mp.weixin.qq.com/s/F7lMqAjOh64ZfsNDoMpdNQ ），不過在之後的視頻號中，張小龍又希望關注：好友推薦：機器推薦=1:2:10，他把視頻號看作更多人創作和表達的方式（相較於少部分人在公衆號寫長文）
+
 [^26]: https://mp.weixin.qq.com/s/IHz3DwwlVY6BnJF8Fq5sTg
+
 [^27]: 〈岳昕：致北京大學師生和北大外國語學院的一封公開信〉，https://archive.vn/x1O7w
-[^28]: 沈夢雨，〈無悔選擇：從中大碩士到流水線女工〉，https://archive.vn/Y48TB；岳昕，〈如何做出無悔的人生選擇？〉，https://archive.vn/HzStl
-[^29]: 〈簽下這封聯名信，聲援佳士工友建工會——我們為什麼要這樣做〉，https://archive.vn/nKviT；〈「堂堂正正地站起來，做一回人」〉，https://archive.vn/rtCnw
+
+[^28]: 沈夢雨，〈無悔選擇：從中大碩士到流水線女工〉，https://archive.vn/Y48TB ；岳昕，〈如何做出無悔的人生選擇？〉，https://archive.vn/HzStl
+
+[^29]: 〈簽下這封聯名信，聲援佳士工友建工會——我們為什麼要這樣做〉，https://archive.vn/nKviT ；〈「堂堂正正地站起來，做一回人」〉，https://archive.vn/rtCnw
+
 [^30]: 起初是在「Info-cn」這個帳號下，4月27日轉到「Terminus2049」，見https://github.com/Info-cn/Terminus
+
 [^31]: 〈如何協作參與端點星計劃〉，https://terminus2049.github.io/sticky/2018/04/01/how-to-participate-in-terminus.html
-[^32]: 陳玫哥哥陳堃的推特：https://twitter.com/tansunit/status/1391958555763384323，https://twitter.com/tansunit/status/1426034798494113800；蔡偉父親的推特：https://twitter.com/caiweifather/status/1426037364141420544
+
+[^32]: 陳玫哥哥陳堃的推特：https://twitter.com/tansunit/status/1391958555763384323 ，https://twitter.com/tansunit/status/1426034798494113800 ；蔡偉父親的推特：https://twitter.com/caiweifather/status/1426037364141420544

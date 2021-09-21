@@ -159,20 +159,36 @@
 
 相比之下，有一些名氣不大的公衆號也在發揮自己的力量，這些號與我前面分析的非常不同。堅果兄弟的公衆號「情況有點複雜」是用於動員的，他們用藝術的形式來關注社會問題，包括種種環境污染問題，流動兒童就學問題，以及舉報審查等言論方面的問題。僅舉一篇微信尚且留存的為例，兩人將充氣的玩具魚放入淄博污染嚴重呈紅色的孝婦河、岳陽河中，以「淄博火鍋魚」的形式傳播這個事件[^16]。「打工談」是一個2020年8月開始錄製的播客節目，在節目中工友是主角，這與其他播客非常不同，這是幾位主創志願組織而成的，公衆號的讚賞被用來給工友送小禮品。其中一期「真俠士：俠義破解外賣平台套路」的受訪者陳國江，也就是「外送江湖騎士聯盟」的組織者已經在2021年2月被逮捕。[^17]
 
-[^1]: 騰訊在2019年末一次會議上公開了這份數據，見https://mp.weixin.qq.com/s/0EJJo7SdVyMb_KnvJcYxUQ。2020年沒有看到類似官方數據，只有據「新榜」發佈的「在看十萬加」估算（唯「有理兒有面」這個號的數據比較奇怪，不知為什麼，它的「贊」數和「在看」數均有數量級上的差距），見表https://shimo.im/sheets/GDyVJYc6yVjkprjX/Z7Ukc
-[^2]: 我將該版本的程式fork在此：https://github.com/JiangPingbo/wechat-spider；我在八月末又爬取了一波，不過數據沒有使用進正文的研究
+[^1]: 騰訊在2019年末一次會議上公開了這份數據，見https://mp.weixin.qq.com/s/0EJJo7SdVyMb_KnvJcYxUQ 。2020年沒有看到類似官方數據，只有據「新榜」發佈的「在看十萬加」估算（唯「有理兒有面」這個號的數據比較奇怪，不知為什麼，它的「贊」數和「在看」數均有數量級上的差距），見表https://shimo.im/sheets/GDyVJYc6yVjkprjX/Z7Ukc
+
+[^2]: 我將該版本的程式fork在此：https://github.com/JiangPingbo/wechat-spider ；我在八月末又爬取了一波，不過數據沒有使用進正文的研究
+
 [^3]: https://github.com/JiangPingbo/MAtheses/data
+
 [^4]: https://archive.vn/psuhm
-[^5]: https://weibo.com/tv/show/1034:4445867546181658；時評：https://archive.vn/9fTAl；據《紐約時報》後來的報道，李洪元被抓是因為他在離職員工群（他們對華為不合法的遣散費不滿）中說，「華為賣給伊朗是內部公開的祕密」，當時任正非女兒孟晚舟被加拿大應美國的逮捕令羈押，見https://cn.nytimes.com/technology/20200425/china-huawei-iran-arrests/zh-hant/。這些內容當時沒有進入中國的討論。我研究的另一位作者「後沙」也和「至道學宮」一樣，發出與主流不同的聲音〈對華為萬炮齊轟，但狐狸尾巴露得太快！〉，該文獲2.3萬次在看，1871人讚賞，並被「共青團中央」轉載，見https://mp.weixin.qq.com/s/JlD8z5ALndOittZedo1hew, https://mp.weixin.qq.com/s/ulrfQFNFdVGepT7tHNWUuQ。
-[^6]: 盧克文談自己的創作：https://mp.weixin.qq.com/s/l7gffkIDFMZ_XVcu4ntK5w，https://mp.weixin.qq.com/s/6nrtidfjrMwMPl4byJYVOA，https://mp.weixin.qq.com/s/TF1CgVHL2oA_g4Zrjr3_ZA，https://mp.weixin.qq.com/s/H9PF9JdgbDDeNExl7GGtjw
+
+[^5]: https://weibo.com/tv/show/1034:4445867546181658 ；時評：https://archive.vn/9fTAl ；據《紐約時報》後來的報道，李洪元被抓是因為他在離職員工群（他們對華為不合法的遣散費不滿）中說，「華為賣給伊朗是內部公開的祕密」，當時任正非女兒孟晚舟被加拿大應美國的逮捕令羈押，見https://cn.nytimes.com/technology/20200425/china-huawei-iran-arrests/zh-hant/ 。這些內容當時沒有進入中國的討論。我研究的另一位作者「後沙」也和「至道學宮」一樣，發出與主流不同的聲音〈對華為萬炮齊轟，但狐狸尾巴露得太快！〉，該文獲2.3萬次在看，1871人讚賞，並被「共青團中央」轉載，見https://mp.weixin.qq.com/s/JlD8z5ALndOittZedo1hew , https://mp.weixin.qq.com/s/ulrfQFNFdVGepT7tHNWUuQ 。
+
+[^6]: 盧克文談自己的創作：https://mp.weixin.qq.com/s/l7gffkIDFMZ_XVcu4ntK5w ，https://mp.weixin.qq.com/s/6nrtidfjrMwMPl4byJYVOA ，https://mp.weixin.qq.com/s/TF1CgVHL2oA_g4Zrjr3_ZA ，https://mp.weixin.qq.com/s/H9PF9JdgbDDeNExl7GGtjw
+
 [^7]:https://mp.weixin.qq.com/s/nyVnt4uwleP_rTlVIFV9WA
+
 [^8]: http://gd.ifeng.com/a/20200811/14494283_0.shtml
-[^9]: 對趙皓陽的：https://theinitium.com/article/20190627-notes-zhaohaoyang-lie-and-prejudice/，https://matters.news/@Wangqingmin/回应-郑常人-知识细节尚需商榷-是非真理不应歪曲-扩充增补版-zdpuAufdFvaJV3tG5K6NuX97qfFr9cQuQywmX3Dh68Ag1ktkL；對緩緩君的：https://matters.news/@alvinc519/30-000字-回應由緩緩君所著的-香港問題的來龍去脈-zdpuAkyb3hKRj7ir4fdtcWXsPAX2ZP6NLy9uhRzbsuGNAz6jN；對盧克文的：https://mp.weixin.qq.com/s/qoFHUrnEU-yzJ5-8LA4bag
+
+[^9]: 對趙皓陽的：https://theinitium.com/article/20190627-notes-zhaohaoyang-lie-and-prejudice/ ，https://matters.news/@Wangqingmin/%E5%9B%9E%E5%BA%94-%E9%83%91%E5%B8%B8%E4%BA%BA-%E7%9F%A5%E8%AF%86%E7%BB%86%E8%8A%82%E5%B0%9A%E9%9C%80%E5%95%86%E6%A6%B7-%E6%98%AF%E9%9D%9E%E7%9C%9F%E7%90%86%E4%B8%8D%E5%BA%94%E6%AD%AA%E6%9B%B2-%E6%89%A9%E5%85%85%E5%A2%9E%E8%A1%A5%E7%89%88-zdpuAufdFvaJV3tG5K6NuX97qfFr9cQuQywmX3Dh68Ag1ktkL ；對緩緩君的：https://matters.news/@alvinc519/30-000%E5%AD%97-%E5%9B%9E%E6%87%89%E7%94%B1%E7%B7%A9%E7%B7%A9%E5%90%9B%E6%89%80%E8%91%97%E7%9A%84-%E9%A6%99%E6%B8%AF%E5%95%8F%E9%A1%8C%E7%9A%84%E4%BE%86%E9%BE%8D%E5%8E%BB%E8%84%88-zdpuAkyb3hKRj7ir4fdtcWXsPAX2ZP6NLy9uhRzbsuGNAz6jN ；對盧克文的：https://mp.weixin.qq.com/s/qoFHUrnEU-yzJ5-8LA4bag
+
 [^10]: https://mp.weixin.qq.com/s/MxGHU65rLndAsepDRT6QGQ
-[^11]: https://mp.weixin.qq.com/s/Y6HYl7V707KgXIr5lyJ2zA, https://mp.weixin.qq.com/s/yF6x0xrqa1S13myPPSCChQ
+
+[^11]: https://mp.weixin.qq.com/s/Y6HYl7V707KgXIr5lyJ2zA , https://mp.weixin.qq.com/s/yF6x0xrqa1S13myPPSCChQ
+
 [^12]: http://www.yidianzixun.com/article/0M1JOPq5
-[^13]: https://www.hkma.gov.hk/chi/news-and-media/insight/2018/02/20180208/, https://www.hkma.gov.hk/chi/key-functions/international-financial-centre/hong-kong-as-an-international-financial-centre/
+
+[^13]: https://www.hkma.gov.hk/chi/news-and-media/insight/2018/02/20180208/ , https://www.hkma.gov.hk/chi/key-functions/international-financial-centre/hong-kong-as-an-international-financial-centre/
+
 [^14]: 趙皓陽的《生於貧窮》一書，已被北京市西城區人民法院判為對知乎用戶@chenqin的侵權，見https://www.zhihu.com/pin/1269307264663498752
+
 [^15]: https://mp.weixin.qq.com/s/HCeef9X236EGAVU_hILvJg
+
 [^16]: https://mp.weixin.qq.com/s/nhfr_htPWuJwcxtnb-MUVQ
-[^17]: https://mp.weixin.qq.com/s/HJ_yQq1OYMq1HY9TOZQy1w；https://www.npr.org/2021/04/13/984994360/he-tried-to-organize-workers-in-chinas-gig-economy-now-he-faces-5-years-in-jail
+
+[^17]: https://mp.weixin.qq.com/s/HJ_yQq1OYMq1HY9TOZQy1w ；https://www.npr.org/2021/04/13/984994360/he-tried-to-organize-workers-in-chinas-gig-economy-now-he-faces-5-years-in-jail

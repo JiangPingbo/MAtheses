@@ -47,7 +47,7 @@ M. E. Roberts（2018）總結，基於恐懼（fear）的審查方式出現更�
 
 王瑾（Wang J., 2019）着力於中國非政府組織的非對抗性行動主義，這是一般英語學者沒能關注到的視角。比較尋常的做法是將中國互聯網的討論與審查聯繫起來。比如，認為微博代表了一個半結構化的公共領域，不過，論證卻只關注了大V等身份，而沒能就具體內容文本與微博討論的群體動力作出分析（Wang Q., 2020）。韓榮斌（Han Rongbin, 2018）以政治科學的視角，不只關注國家—社會關係，而轉向國家與個人之間的中介，重視這些人的影響力。同時，他也記錄下中國互聯網的一些關鍵名詞，如美分、帶路黨、五毛、自乾五（自帶乾糧的五毛）等等，並持平地描繪和評價了一些網路歷史事件。不過，他的材料略顯陳舊，相比論壇時期，現在的網路討論、上網人群與上網目的都有巨大改變。最重要的是，把支持政權方面的表達通通歸於「自乾五」，這樣的表述無助於理解，因為作者也知道這個標籤不過是用來與「自由派」作區隔的，並且這恰恰意味著所謂的「自乾五」並不以此為業。
 
-2019年8月，一篇《紐約客》的報導採訪了公衆號「北美留學生日報」，它已經發展成一個公司，在兩國都有工作人員，擁有一百六十萬的訂閱量，不過《紐約客》記者指出，內容有大量編造成分（Zhang H., 2019.8.19）。這篇文章被另一個公衆號翻譯發佈（見https://mp.weixin.qq.com/s/vNlohdEjBFijIFsiqfIv-A），如果點開這個頁面，會顯示「以下內容存在爭議」，下方並呈了兩方的後續爭論，提供了一個議題辯論的空間。
+2019年8月，一篇《紐約客》的報導採訪了公衆號「北美留學生日報」，它已經發展成一個公司，在兩國都有工作人員，擁有一百六十萬的訂閱量，不過《紐約客》記者指出，內容有大量編造成分（Zhang H., 2019.8.19）。這篇文章被另一個公衆號翻譯發佈（見https://mp.weixin.qq.com/s/vNlohdEjBFijIFsiqfIv-A ），如果點開這個頁面，會顯示「以下內容存在爭議」，下方並呈了兩方的後續爭論，提供了一個議題辯論的空間。
 
 不過，我們仍然不能忘記，這些網路上的文本留存都經過了國家（關鍵詞形式的）事前審查和持續地可能地（人工形式的）事後審查，也即這些論述，只要你有影響力，大都落在國家允許的範圍之內。當然，國家很少直接親自動手審查，而是以林培瑞（Eugene Perry Link, Jr., 2002.4.11）所說的「吊燈裡的巨蟒」這一形式存在，讓出版業、網路內容服務提供者自行處理，因而結果常常是過度審查。研究者能夠蒐集到的文本不是常態分佈的，也不與當前的整個觀點光譜相符，不過，這並不折損內容的價值，這些作者以知識人的形象出現，也許學者會歸之入「自乾五」或「帶路黨」這樣糟糕的標籤下。
 
@@ -130,25 +130,47 @@ Jhally（1987, p. 69／馮建三譯，1992，頁117）在研究電視廣告的�
 接下來，我將簡要介紹後續章節內容。第二章主要注重理論探討，從理論發展和對話中發現問題，並同時服務於之後的經驗材料討論，但決無意理論先行。第三章以歷史綜合的方法分析中國信息管制體系下的互聯網，在這個基礎上思考微信這個應用和應用中的公衆號文章。第四章以不同的方法同時分析微信文章的內容，文章意義的生產，文章交換中的關係與文章的再生產，並同時以經驗材料與既有理論對話。第五章暫作結，反思微信文章的同時以之前的討論為基礎，先綜合理論與經驗重構理論，並試圖超越性探討更廣的文化產品問題，提出我的建議，最後，做自我批評。
 
 [^1]: https://mp.weixin.qq.com/s/1djzYH1Qqe5iGA83Cfzvxg
+
 [^2]: 原發表於「正午故事」公衆號，現存騰訊網的版本，見https://news.qq.com/a/20170425/063100.htm
+
 [^3]: 這個詞仿照的是政治科學（political science），用以指代當下的主流經濟學。因為「economics」一字本就是William Stanley Jevons（1871/1879, p. xiv／郭大力譯，1984，頁6）提出，用來代替「political economy」這個「麻煩的雙字詞組」。不過，我無意排斥高等數學的運用，因為科學研究絕不拒絕先進的方法。
+
 [^4]: autocracy（專政）源自古希臘文αὐτοκρατία，αὐτός意為「單」；dictatorship（獨裁）源自拉丁文dictātor，即羅馬共和國的獨裁官，舊音譯「狄克推多」後改從日譯（本為中性詞，為Carl Schmitt所歸納的「委任獨裁」，kommissarische Diktatur，見楊尚儒，2012），但以「無產階級專政」對譯「dictatorship of proletariat」，就因政治原因出現「專政」的譯法（楊尚儒認為此譯法源於毛澤東的「人民民主專政」）。文章中，凡註明過的翻譯，後文引用時徑自改動，不再出注，引文時註明原文的表示引文有改動，也不出注，唯文獻名仍如舊，以方便查考。
+
 [^5]: legitimacy/legality（Legitimität/Legalität）這一組概念，本文分別譯為正當性／合法性。這組詞譯名衆多易混淆，如香港分別譯為認受性／合法性，中國有的譯為合法性／合法律性，有的反譯為合法性／正當性（劉毅，2007）。
+
 [^6]: 「灌輸」這個術語在中文中來自對列寧的小冊子《怎麼辦？》的翻譯，「工人本来也不可能有社会民主主义的意识。这种意识只能从外面灌输进去」（第二章第一節第二段首句）。但這只是譯文，原文「沒有一個對應的動詞『灌輸』，而是一個介詞詞組」（陳力丹、黃煜、廖雪婷，2019，頁23），「被帶給」或「不會來到」，中文譯作「灌輸」尤為特殊。
-[^7]: 這組材料他沒有給出來源，一則是以新華社的一首歌頌習近平的詩配以中國中央電視台「央視姓黨 絕對忠誠 請您檢閱」的圖片，詩可見https://www.lanjinger.com/news/detail?id=132；另兩則分別是〈中国青年网：应坚决把任志强清除出党员队伍〉，見https://news.sina.com.cn/c/nd/2016-02-25/doc-ifxpvysv4881349.shtml，與〈央视:95%海外观众对央视春晚满意〉，見https://news.sina.com.cn/c/nd/2016-02-08/doc-ifxpfhzq2641773.shtml
-[^8]: 推特透明度報告中列出了信息運作的部分，針對的是「試圖操縱推特的有國家支持的實體」，該公司還自豪地稱是「能以這種顆粒度和透明度提供【數據集】的唯一的公司」（見https://transparency.twitter.com/en/reports/information-operations.html，可以在這個頁面找到推特公告的具體的鏈接，並可進一步獲取數據集）。
+
+[^7]: 這組材料他沒有給出來源，一則是以新華社的一首歌頌習近平的詩配以中國中央電視台「央視姓黨 絕對忠誠 請您檢閱」的圖片，詩可見https://www.lanjinger.com/news/detail?id=132 ；另兩則分別是〈中国青年网：应坚决把任志强清除出党员队伍〉，見https://news.sina.com.cn/c/nd/2016-02-25/doc-ifxpvysv4881349.shtml ，與〈央视:95%海外观众对央视春晚满意〉，見https://news.sina.com.cn/c/nd/2016-02-08/doc-ifxpfhzq2641773.shtml
+
+[^8]: 推特透明度報告中列出了信息運作的部分，針對的是「試圖操縱推特的有國家支持的實體」，該公司還自豪地稱是「能以這種顆粒度和透明度提供【數據集】的唯一的公司」（見https://transparency.twitter.com/en/reports/information-operations.html ，可以在這個頁面找到推特公告的具體的鏈接，並可進一步獲取數據集）。
+
 [^9]: 劉曉波（1990，頁155-160）雖然充滿了對馬克思的誤解，但他也被人誤解，他在1989年3月的後記中自陳他「立足於中國的民族主義，而決非……是『全盤西化』」，關注的是「全人類命運」和「個體生命的不完整」，他要做的是「1.以西方文化為參照來批判中國的文化和現實；2.以自我的、個體的創造性來批判西方文化」。
+
 [^10]: 作者自己有個簡略的中文版，見https://matters.news/@linsantu/%E7%81%AF%E5%A1%94%E4%B8%BB%E4%B9%89%E4%B8%8E%E4%B8%AD%E5%9B%BD%E8%87%AA%E7%94%B1%E6%B4%BE%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E7%9A%84-%E5%B7%9D%E5%8C%96-bafyreiauru4fxptiyil5okvya5aeql77ty4nwzjyf37rfoltrewnccph3a
+
 [^11]: 得到譯介的包括朱蘇力、沈志華、汪暉、張一兵、陳平原、陳來、葛兆光、蔣慶、趙汀陽、閻學通、戴錦華等人。
-[^12]: 這些行動主要在github上完成，歷史記錄見https://github.com/JadaGates/ShadowsocksBio；討論版見https://github.com/net4people/bbs與https://github.com/ShadowsocksR-Live/shadowsocksr-native/wiki
+
+[^12]: 這些行動主要在github上完成，歷史記錄見https://github.com/JadaGates/ShadowsocksBio ；討論版見https://github.com/net4people/bbs 與https://github.com/ShadowsocksR-Live/shadowsocksr-native/wiki
+
 [^13]: https://gfw.report/
+
 [^14]: 宋永毅編輯的《新編紅衛兵資料》中，第二部分和第三部分分別是北京和其他地區的小報，而第三部分只比第二部分多了12卷。
-[^15]: 他的《烏合之衆》（Psychologie des foules, 1895）一書，在最近二十年出版了至少三十個譯本，成為一種現象，可參考駱思航的評論〈《烏合之衆》與中國的精英主義群體心理學〉：https://www.silentmarching.com/post/190826739404/乌合之众与中国的精英主义群体心理学
+
+[^15]: 他的《烏合之衆》（*Psychologie des foules*, 1895）一書，在最近二十年出版了至少三十個譯本，成為一種現象，可參考駱思航的評論〈《烏合之衆》與中國的精英主義群體心理學〉：https://www.silentmarching.com/post/190826739404/%E4%B9%8C%E5%90%88%E4%B9%8B%E4%BC%97%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%B2%BE%E8%8B%B1%E4%B8%BB%E4%B9%89%E7%BE%A4%E4%BD%93%E5%BF%83%E7%90%86%E5%AD%A6
+
 [^16]: HTTP就是超文本傳輸協定（HyperText Transfer Protocol），Tim Bernes-Lee的這個想法開啓了我們現在使用的3W網。
+
 [^17]: 他在1994到2002年間才發掘了北京大學1957年的五・一九學生民主運動的重要性（頁312注71），而時任歷史系助教的張廣達（1989年去國），收到（我的）提問「您可以介紹下在北京大學校內的民主運動嗎？」，一下就記起了五・一九作為民主運動的開端，回憶起當時的感受了，見https://www.facebook.com/historynccu/videos/505132773759008/
+
 [^18]: 我發現這份材料是源自沈志華教授在關於朝鮮戰爭的講座中曾提到過這次對話。中文版書中日期寫錯了，據英文改正。
+
 [^19]: https://theinitium.com/article/20150904-mainland-greatfirewall/
-[^20]: Alphabet（Google母公司）旗下的Jigsaw開發的VPN軟件Outline就是基於Shadowsocks，見https://www.wired.com/story/alphabet-outline-vpn-software/，而Shadowsocks是中國網民「clowwindy」自己開發與使用的翻牆軟體，後來開源共享。在2015年，作者被「請喝茶」，8月22日寫下「Two days ago the police came to me and wanted me to stop working on this. Today they asked me to delete all the code from GitHub. I have no choice but to obey. I hope one day I'll live in a country where I have freedom to write any code I like without fearing.」（作者已改動該條回覆，刪掉上述內容，不過，此訊息已被存檔，見https://web.archive.org/web/20150822223925/https://github.com/shadowsocks/shadowsocks-iOS/issues/124），目前我們仍然可以看到，在作者的「shadowsocks-libev」、「ShadowVPN」、「ShadowVPN-iOS」三個倉庫的改動都停留在8月22日，倉庫清空僅剩「README.md」一個文件，不過實際上，作者並未如其所說應警方要求刪去代碼，而是改建新的分支「redirection」或「rm」作為倉庫的默認首頁，而非原來的「master」分支。clowwindy在8月18日對另一款ShadowsocksR（當時尚未開源且不尊重開源協定）的開發者和這個開發的現象作了大段評論，「不需要政府造牆，網民也會自發造牆。這尼瑪連做個翻牆軟件都要造牆，真是令人嘆為觀止」（見https://github.com/shadowsocks/shadowsocks-windows/issues/293#issuecomment-132253168 ）。
+
+[^20]: Alphabet（Google母公司）旗下的Jigsaw開發的VPN軟件Outline就是基於Shadowsocks，見https://www.wired.com/story/alphabet-outline-vpn-software/ ，而Shadowsocks是中國網民「clowwindy」自己開發與使用的翻牆軟體，後來開源共享。在2015年，作者被「請喝茶」，8月22日寫下「Two days ago the police came to me and wanted me to stop working on this. Today they asked me to delete all the code from GitHub. I have no choice but to obey. I hope one day I'll live in a country where I have freedom to write any code I like without fearing.」（作者已改動該條回覆，刪掉上述內容，不過，此訊息已被存檔，見https://web.archive.org/web/20150822223925/https://github.com/shadowsocks/shadowsocks-iOS/issues/124 ），目前我們仍然可以看到，在作者的「shadowsocks-libev」、「ShadowVPN」、「ShadowVPN-iOS」三個倉庫的改動都停留在8月22日，倉庫清空僅剩「README.md」一個文件，不過實際上，作者並未如其所說應警方要求刪去代碼，而是改建新的分支「redirection」或「rm」作為倉庫的默認首頁，而非原來的「master」分支。clowwindy在8月18日對另一款ShadowsocksR（當時尚未開源且不尊重開源協定）的開發者和這個開發的現象作了大段評論，「不需要政府造牆，網民也會自發造牆。這尼瑪連做個翻牆軟件都要造牆，真是令人嘆為觀止」（見https://github.com/shadowsocks/shadowsocks-windows/issues/293#issuecomment-132253168 ）。
+
 [^21]: 新華網轉載了這篇《北京商報》的報導，見http://www.xinhuanet.com//tech/2017-02/07/c_1120421682.htm
+
 [^22]: 譯文有改動。
-[^23]: 中山大學政治系陳至潔教授在研究這些相關問題，不過暫時未見發表，可參考一次已公開的講座「製造正當性：微信上的中國數位宣傳」，見https://www.youtube.com/watch?v=K3nubEv6vrg；以及「中國對香港的微信反宣傳」，見https://www.youtube.com/watch?v=hZD-qsWQ7tg&t=21531s
+
+[^23]: 中山大學政治系陳至潔教授在研究這些相關問題，不過暫時未見發表，可參考一次已公開的講座「製造正當性：微信上的中國數位宣傳」，見https://www.youtube.com/watch?v=K3nubEv6vrg ；以及「中國對香港的微信反宣傳」，見https://www.youtube.com/watch?v=hZD-qsWQ7tg&t=21531s
